@@ -12,6 +12,7 @@
             <div class="judul">
                 <div class="col-lg-12 text-center mt-5 mb-5">
                     <h3 class="display-4">Daftar Mahasiswa</h3>
+                    <a href="tambah.php"><h4>Tambah Data Mahasiswa</h4></a>
                 </div>
             </div>
             <div id="tab">
